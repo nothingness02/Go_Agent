@@ -1,0 +1,4 @@
+.env
+.vscode/
+agent.yaml
+__pycache__/
